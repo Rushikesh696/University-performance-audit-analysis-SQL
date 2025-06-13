@@ -88,7 +88,7 @@ Faculty Evaluation: Measure effectiveness based on feedback and course outcomes.
 
 Curriculum Audit: Highlight tough or low-performing courses.
 
-### Conclusion
+### **Conclusion**
 This project demonstrates how structured university data can be leveraged using SQL to perform performance audits, academic analytics, and institutional insights. With a solid schema and meaningful queries, it helps uncover trends in student outcomes, faculty efficiency, and course effectiveness—paving the way for smarter academic decisions and transparency.
 
 Department Monitoring: Track departmental performance and attendance trends.
