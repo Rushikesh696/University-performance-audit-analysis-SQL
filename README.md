@@ -34,64 +34,64 @@ Insights Extracted from SQL Queries
 High Course Load Students (2022):
 
 Identified students who enrolled in more than 10 courses in the 2022 academic year.
-🟢 Useful for tracking academic pressure or over-enrollment.
+Useful for tracking academic pressure or over-enrollment.
 
 Faculty Performance Based on Feedback:
 
 Calculated average feedback rating for each faculty member.
-🟢 Supports faculty evaluations and reward systems.
+Supports faculty evaluations and reward systems.
 
 Department-Wise Student Extraction (Computer Science):
 
 Retrieved all students and their emails from the Computer Science department.
-🟢 Can be used for targeted communication or departmental audits.
+Can be used for targeted communication or departmental audits.
 
 Demanding Courses Identification:
 
 Listed all semester 1 courses with more than 3 credits.
-🟢 Helps in identifying challenging or core courses.
+Helps in identifying challenging or core courses.
 
 Low Attendance Alert:
 
 Found students who were absent more than 5 times in any course.
-🟢 Useful for intervention, counseling, or disciplinary action.
+Useful for intervention, counseling, or disciplinary action.
 
 Top Performers by Course and Exam:
 
 Extracted students with the highest cumulative marks in each course.
-🟢 Assists in generating merit lists and awards.
+Assists in generating merit lists and awards.
 
 Feedback Gaps by Students:
 
 Identified students who have never submitted feedback for any faculty.
-🟢 Highlights participation gaps in the feedback system.
+Highlights participation gaps in the feedback system.
 
 Best Performing Departments:
 
 Calculated the department with the highest average grades (GPA-like scale).
-🟢 Useful for institutional ranking and departmental benchmarking.
+Useful for institutional ranking and departmental benchmarking.
 
 Faculty Teaching Breadth:
 
 Found the number of different courses each faculty received feedback for.
-🟢 Indicates teaching diversity and course handling load.
+Indicates teaching diversity and course handling load.
 
 Consistent Underperformance:
 
 Listed students who failed in 2 or more different courses.
-🟢 Helps flag students for academic intervention and support.
+Helps flag students for academic intervention and support.
 
-✅ Summary of Audit Use Cases
-🔹 Student Support: Identify overburdened, underperforming, or disengaged students.
+Summary of Audit Use Cases
+Student Support: Identify overburdened, underperforming, or disengaged students.
 
-🔹 Faculty Evaluation: Measure effectiveness based on feedback and course outcomes.
+Faculty Evaluation: Measure effectiveness based on feedback and course outcomes.
 
-🔹 Curriculum Audit: Highlight tough or low-performing courses.
+Curriculum Audit: Highlight tough or low-performing courses.
 
 ### Conclusion
 This project demonstrates how structured university data can be leveraged using SQL to perform performance audits, academic analytics, and institutional insights. With a solid schema and meaningful queries, it helps uncover trends in student outcomes, faculty efficiency, and course effectiveness—paving the way for smarter academic decisions and transparency.
 
-🔹 Department Monitoring: Track departmental performance and attendance trends.
+Department Monitoring: Track departmental performance and attendance trends.
 
-🔹 Administrative Insights: Ensure feedback participation and resource balancing.
+Administrative Insights: Ensure feedback participation and resource balancing.
 
