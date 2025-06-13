@@ -1,0 +1,351 @@
+faculty_id,name,designation,department_id,email,phone,joining_date
+1,Christopher Williams,Assistant Professor,4,joneschristopher@gmail.com,981.046.2089x21563,2017-07-23
+2,Debbie Knapp,Assistant Professor,6,kevinjackson@yahoo.com,8237200927,2025-01-16
+3,Benjamin Hudson,Assistant Professor,5,lozanojonathan@hotmail.com,+1-876-307-0198x019,2024-10-13
+4,Linda Henderson,Assistant Professor,5,donrobbins@fischer.com,(704)318-4046x021,2016-05-05
+5,Jessica Robertson MD,Professor,5,ashley04@gmail.com,(882)986-6653,2017-05-27
+6,Carrie Freeman,Professor,3,garciaallen@yahoo.com,708-567-1742,2019-06-28
+7,Mr. Jacob Payne,Assistant Professor,3,jpotts@thomas-wells.com,064.398.0571,2022-04-13
+8,Vanessa Nichols,Professor,2,sellersstephen@glover.com,709.195.2157,2018-10-14
+9,Barbara Garrett,Assistant Professor,6,uwilliamson@davis-long.org,(793)270-5278,2021-06-07
+10,Amber Hill,Professor,6,anthony89@gmail.com,+1-430-641-2650x1961,2023-01-31
+11,Joshua Gonzalez,Professor,3,scontreras@yahoo.com,(194)406-4608x8871,2016-11-06
+12,Joshua Jones,Professor,2,baileymallory@cooper-snyder.com,(128)738-5799,2021-05-02
+13,John Mathews,Professor,3,millerwilliam@gonzalez.com,0963673342,2022-09-20
+14,Michele Fisher,Associate Professor,4,ronaldvaughan@yahoo.com,016.650.2344,2019-07-07
+15,Susan Nichols,Assistant Professor,2,jaycruz@gmail.com,001-401-873-2485x336,2022-07-06
+16,Michelle Graham,Associate Professor,6,cyoung@cohen.com,+1-397-368-7989x5334,2017-01-04
+17,James White,Professor,6,beckerwendy@yahoo.com,353.653.1100x355,2021-09-24
+18,Jeremy Ortiz,Associate Professor,3,lori78@gmail.com,+1-285-196-6085x090,2017-07-29
+19,Stacy Perry,Assistant Professor,4,richard50@reed-vargas.com,3220621416,2019-10-31
+20,David Buck,Assistant Professor,3,ericamarquez@gmail.com,699-750-2619x03114,2020-08-14
+21,Brittany Mosley,Professor,7,antonioknapp@yahoo.com,155-733-4905x2798,2019-03-23
+22,Joshua Pace,Associate Professor,1,jeffrey09@smith-merritt.com,(764)307-2247x258,2022-05-04
+23,Dorothy Moody,Associate Professor,1,ywhite@valdez.org,001-509-032-9508x72936,2018-02-22
+24,Courtney Rose,Associate Professor,4,davidwhite@hotmail.com,(569)991-4772x76220,2023-03-14
+25,John Parrish,Assistant Professor,5,kenneth37@frank.com,3515029152,2020-06-05
+26,Brittany Combs,Assistant Professor,5,mgonzales@yahoo.com,(370)855-2816,2021-01-12
+27,Christopher Bailey,Associate Professor,1,ggarcia@yahoo.com,+1-463-446-7109x99790,2023-11-05
+28,Scott Jones,Assistant Professor,1,james77@gmail.com,251-161-8661x9068,2019-11-18
+29,Michael Taylor,Assistant Professor,5,andreamurphy@rice-jones.net,(078)527-3986,2020-11-21
+30,Jessica Williams,Associate Professor,2,kimberlybenjamin@yahoo.com,621-053-5081x58863,2016-02-29
+31,Joanne Rodriguez,Assistant Professor,5,cliffordturner@williamson-rivera.com,963.522.7205x0883,2019-02-01
+32,Norman Fischer,Associate Professor,3,sanchezmary@gmail.com,579.805.4659x21125,2022-04-17
+33,Matthew Smith,Associate Professor,2,xfitzpatrick@wilson.org,001-608-674-2143x555,2022-11-14
+34,Jennifer Lawson,Professor,3,lisa69@lawrence.biz,0183345957,2024-05-15
+35,Emily Fuentes,Associate Professor,1,richarddurham@holmes.com,685.919.1294,2019-05-07
+36,Kimberly Bond,Assistant Professor,2,gouldrebecca@yahoo.com,120.150.6447,2017-12-13
+37,Mark White,Professor,3,vasquezjames@medina.com,508.829.8147x632,2019-04-14
+38,Angela Moore,Associate Professor,3,christinevazquez@gmail.com,260.329.6450,2017-11-02
+39,Glenda Montes,Professor,2,jlyons@yahoo.com,(844)323-9442,2017-09-10
+40,Matthew Young,Assistant Professor,4,tracy84@hotmail.com,5834322241,2024-07-02
+41,Hayden Hanna,Associate Professor,7,williambrown@smith-garcia.com,(999)042-6110x22956,2015-08-26
+42,Wesley Holmes,Assistant Professor,5,mccallraymond@hotmail.com,827.113.7642x389,2018-07-06
+43,Anita Bauer,Professor,6,christopher01@hotmail.com,(721)319-2507x5883,2019-09-08
+44,Krista Robinson,Associate Professor,3,ngrant@yahoo.com,129.011.7299,2021-03-21
+45,Joseph Jones,Professor,5,eking@perry.com,+1-613-757-7828x22228,2019-02-05
+46,Scott Dorsey,Professor,7,oyork@yahoo.com,001-225-115-1451x60026,2021-08-31
+47,Angela Gomez,Associate Professor,6,marshallcharles@peters.com,860.677.7341,2015-08-10
+48,Mrs. Natalie Ball,Professor,5,jeffreynelson@mcdaniel.biz,409-108-0114x0017,2025-02-24
+49,Elizabeth Hill,Assistant Professor,1,jacksonmason@chase.com,001-148-537-3295x4986,2018-09-03
+50,Daniel Hess,Professor,6,william39@gmail.com,257.567.0089x9935,2018-10-17
+51,Michael Bray,Assistant Professor,7,harrismichelle@campbell.com,931.109.9566x05744,2022-01-09
+52,Jeffrey Palmer,Assistant Professor,5,justinpratt@gmail.com,(169)041-8806x472,2019-02-06
+53,Debra Tucker,Professor,3,johnhanna@jenkins.com,+1-636-609-8581x3909,2022-03-16
+54,Gregory Ruiz,Assistant Professor,6,ocooper@kennedy.info,886.039.1165x7324,2023-10-21
+55,Robert Davis,Associate Professor,1,reginarobinson@gmail.com,(832)345-9364x86065,2022-07-30
+56,Marie Schneider,Assistant Professor,2,sclark@gmail.com,932-564-3097,2016-06-20
+57,Natalie Bradley,Assistant Professor,3,andrea47@sims-erickson.com,947.731.9507x35901,2017-12-13
+58,Ashley Torres,Assistant Professor,1,pamela88@yahoo.com,148-163-7748x878,2016-08-18
+59,Sarah Cooke,Associate Professor,1,larry93@gmail.com,445.196.6923,2023-01-17
+60,Brandon Watson,Associate Professor,6,enavarro@yahoo.com,001-176-031-1619x584,2021-10-09
+61,Jesus Pierce,Associate Professor,5,fieldschristopher@gmail.com,+1-204-142-2300x8939,2023-08-17
+62,Timothy Thompson,Professor,2,dustinvasquez@baldwin.com,056-030-4040x8210,2019-08-08
+63,Russell Barnett,Associate Professor,3,bradyyolanda@hotmail.com,429.347.9574,2024-12-12
+64,Megan Perry,Assistant Professor,3,travis52@gmail.com,053-960-8899x61459,2025-01-27
+65,Jacob Riley,Associate Professor,5,wisemelissa@yahoo.com,+1-382-586-6875x07819,2019-10-12
+66,Terry Soto,Associate Professor,2,david72@copeland-mitchell.org,294-807-2681,2021-08-16
+67,Deborah Shelton,Assistant Professor,6,chelseycole@walker.com,604-187-9563x211,2016-09-28
+68,Ivan Sims,Professor,3,christinapacheco@rhodes.org,285-004-0986x5448,2015-08-06
+69,Eric Howard MD,Associate Professor,2,parkerjohn@sweeney-sanchez.com,370.176.2361,2016-08-28
+70,Jeffrey Kennedy,Professor,6,andrew63@hotmail.com,001-071-951-7918x33668,2018-09-25
+71,Veronica Mcintosh,Professor,6,xkennedy@hotmail.com,001-257-070-3732x7434,2021-10-02
+72,Kelly Gonzales,Professor,7,russell28@yahoo.com,639-307-9025,2017-11-15
+73,Julie Jackson,Assistant Professor,3,daviskimberly@yahoo.com,199.963.7778x8399,2019-02-01
+74,Brittany Boyle,Professor,5,lisa11@hoover-nixon.com,443-413-3630,2015-12-21
+75,Angela Thompson,Professor,4,daniel09@gmail.com,+1-867-114-3893,2015-09-22
+76,Nicole Johnson,Assistant Professor,3,hoganmark@gmail.com,176-917-5075,2021-03-25
+77,James Heath,Professor,7,krobinson@yahoo.com,775-384-2150,2022-09-14
+78,Brandon Bailey,Professor,1,brittanygibson@clark.biz,197.552.7334,2016-08-26
+79,William Erickson,Assistant Professor,1,bishopderek@yahoo.com,(841)579-3523,2022-08-24
+80,Diana Mercado,Assistant Professor,6,ashleyjackson@gmail.com,(990)982-3269,2022-10-28
+81,Eric Farrell,Associate Professor,4,oliviatran@gmail.com,269-612-6434x10385,2018-02-18
+82,Mia Tran,Associate Professor,7,jonathan42@gmail.com,218.809.7450,2025-03-26
+83,Marissa Hopkins,Associate Professor,3,wandakelley@hotmail.com,946.254.6088x25497,2021-07-27
+84,Debra Herrera,Professor,1,fernando26@hartman.com,673.386.1672,2018-08-11
+85,Erin Wilson,Professor,1,lauren70@hotmail.com,006-659-7032x079,2020-05-27
+86,Karen Dyer,Professor,3,lisa68@hotmail.com,001-238-140-1743x077,2020-01-28
+87,Kimberly Jones,Assistant Professor,7,hoovermarisa@hotmail.com,(627)163-3457,2022-12-08
+88,Gary Suarez,Professor,2,warrenamanda@gmail.com,317.099.4304,2022-07-08
+89,Mr. Dean Thomas,Associate Professor,6,vsharp@alexander.info,3313572094,2020-01-15
+90,Anthony Fitzgerald,Assistant Professor,3,hartvanessa@yahoo.com,+1-851-806-5958x38434,2020-06-29
+91,Catherine Hamilton,Assistant Professor,2,edwinmarks@gmail.com,(920)243-2543,2020-06-04
+92,David Day,Assistant Professor,6,umorris@stein.com,047.512.8050x80761,2018-09-20
+93,Chad Vaughn,Associate Professor,4,tshort@gmail.com,001-328-128-3422x53493,2018-01-27
+94,Angel Cortez,Associate Professor,5,jennacisneros@ortiz.net,001-877-960-3326x1098,2015-07-01
+95,Claire Hernandez,Associate Professor,6,dawn72@thomas-reese.com,+1-476-731-0539,2023-02-15
+96,Bryan Cox,Assistant Professor,4,ystewart@brown-anderson.org,312-017-0500x3262,2018-05-02
+97,Erica Padilla,Assistant Professor,5,nelsonashley@hernandez.com,+1-157-568-6956,2018-04-10
+98,Ryan Higgins,Professor,1,tammy42@doyle.com,+1-763-002-5633,2022-12-31
+99,Miss Amy Ballard,Professor,1,martinezheidi@yahoo.com,(573)784-4589x4760,2016-06-04
+100,Kurt Morris,Associate Professor,1,hhill@austin.com,(723)181-3894,2021-09-29
+101,Miss Michele Turner,Assistant Professor,6,vperez@graham.net,944-722-5902x10833,2020-06-29
+102,Brandon Williams,Professor,2,hillpatricia@bradley.info,348.996.0314x6024,2023-05-17
+103,Ashley Walker,Associate Professor,5,francowilliam@rivers.com,001-169-377-6581x81490,2018-10-21
+104,Clayton Fleming,Associate Professor,1,tammyperez@marks.com,+1-096-126-7348x714,2023-12-12
+105,Charles Henderson,Professor,7,randyhernandez@hotmail.com,582.293.6505,2017-04-14
+106,Eric Rodriguez,Associate Professor,3,peter70@johnson.com,+1-691-512-1493x859,2021-01-02
+107,Dr. Lisa Zimmerman,Assistant Professor,5,lblankenship@kaiser-newman.com,091-446-7964x6937,2015-12-04
+108,Cody Finley,Associate Professor,5,brittanyolson@gmail.com,711-736-4414x3766,2019-03-31
+109,Ariana Bush,Assistant Professor,2,moorekaren@hotmail.com,044.297.6375,2018-03-05
+110,Juan Ford,Assistant Professor,4,mccanntara@gmail.com,196.034.8824x3428,2017-08-14
+111,Stacie Kaiser,Professor,2,gibsondebra@gmail.com,716-816-1366,2022-12-22
+112,Zachary Phillips,Professor,1,youngjames@gmail.com,001-175-944-2180,2021-09-03
+113,Catherine Kelly,Professor,3,jackson48@yahoo.com,001-441-150-2143x9440,2018-06-26
+114,Robert Figueroa,Associate Professor,3,cody13@hotmail.com,001-359-048-7609,2023-08-01
+115,Christine Walker,Professor,7,rguerrero@gmail.com,(109)304-2985,2019-08-21
+116,Stephanie Brennan,Professor,7,michael00@hotmail.com,265.609.7991x625,2019-03-11
+117,Tom Kim,Associate Professor,1,mrobinson@taylor-decker.info,3461940737,2015-11-29
+118,Tammy Huff,Professor,3,robinsonshelly@hale.com,+1-542-651-0917x464,2022-05-20
+119,Robert Newton,Associate Professor,2,wrightmartin@gmail.com,(580)284-9342x188,2016-03-08
+120,Anthony Hughes,Associate Professor,6,joshuafrazier@smith.org,796-756-0833x93620,2024-01-24
+121,Erin Bender,Assistant Professor,2,williamskim@yahoo.com,249.564.7671x775,2019-07-10
+122,Elizabeth Donaldson,Assistant Professor,6,rachel93@wagner.com,+1-005-652-0232x3767,2016-04-13
+123,Yvonne Stanton,Professor,1,scastillo@coffey.com,608.658.9954x589,2018-11-10
+124,Jonathan Freeman,Associate Professor,3,upowell@martin.com,+1-527-474-2631x2376,2025-05-14
+125,Jennifer Harper,Assistant Professor,7,fhunt@gmail.com,001-858-746-5538x041,2018-07-20
+126,Hailey Wallace,Assistant Professor,5,kbarrett@dodson.com,998.283.9891,2016-02-04
+127,Teresa Hodges,Assistant Professor,7,jamiesanchez@king.com,447.660.4927,2015-11-22
+128,Joseph Bean,Assistant Professor,4,hernandeztyler@pratt.info,(019)893-4220x746,2023-01-03
+129,Taylor Wyatt,Professor,5,amandabowers@harris.org,+1-275-490-8019x70867,2021-10-21
+130,Casey Crosby,Assistant Professor,6,haleysimon@perez-pham.biz,878.426.1850,2018-10-01
+131,Joshua Medina,Professor,2,arice@gmail.com,073.515.7553x822,2018-08-26
+132,Lori Chavez,Associate Professor,2,mhenry@brown.com,345-217-9999x83372,2016-08-28
+133,Sandra Fowler,Professor,7,stephenskimberly@sullivan.org,+1-554-057-2187x256,2016-11-04
+134,Larry Norris,Assistant Professor,2,melissajones@yahoo.com,9172571278,2023-01-18
+135,Ryan Owens PhD,Associate Professor,7,vmorgan@hotmail.com,330.595.6424,2018-02-11
+136,Steven Smith,Associate Professor,7,ubryant@mccarty.com,108.846.4046x30054,2021-04-26
+137,Kristina Webb,Professor,2,edward42@kennedy.com,001-283-625-1595x248,2022-09-02
+138,Nicholas Hampton,Associate Professor,4,anthonypalmer@randall.biz,(125)644-1051x5349,2016-06-18
+139,Jacqueline Moyer,Professor,1,heatherhowell@hotmail.com,287-993-0499x932,2019-01-04
+140,Margaret Lyons,Associate Professor,2,kochheather@gmail.com,(377)178-6710,2017-08-29
+141,Amanda Crawford,Professor,6,ogibson@walker.com,490.871.0824x9955,2022-06-09
+142,Kyle Ramos,Assistant Professor,3,russelldiana@parker.com,139.931.4715x67897,2025-04-26
+143,Cindy Smith,Professor,7,jacksonedward@yahoo.com,001-516-056-9836x9705,2017-07-18
+144,Charlotte Weber,Professor,4,leeluis@smith-walker.biz,(503)088-6541x65372,2022-01-12
+145,Roger Johnson,Assistant Professor,7,harrisstacy@wright.com,994.292.8942x511,2024-06-08
+146,William French,Professor,6,mbradshaw@watts-williams.com,001-203-804-5226x4369,2022-03-20
+147,Evan Mcdonald,Professor,7,murphydon@lee.com,(037)752-2666,2017-11-12
+148,Elizabeth Glover,Associate Professor,6,danielleschneider@holland.com,9137730706,2017-05-19
+149,Luke French,Professor,7,brettwilliams@douglas.info,706-273-6560x798,2016-08-27
+150,Traci Brown,Associate Professor,2,clinton80@hotmail.com,001-951-620-4311x230,2017-12-20
+151,Tiffany Gonzalez,Assistant Professor,3,mollywright@patrick-miller.com,001-221-276-8737x6216,2020-02-03
+152,Eric Henderson,Associate Professor,2,bryan85@yahoo.com,+1-899-303-2770x9056,2020-08-19
+153,Dr. Matthew Harper,Associate Professor,7,rbauer@gmail.com,577.475.6442,2023-01-19
+154,Robert Castillo,Assistant Professor,6,tleonard@gmail.com,150.316.6611,2023-01-12
+155,Travis Cross,Associate Professor,1,davidfrazier@yahoo.com,966-913-8446,2024-07-04
+156,Brent Miller,Assistant Professor,4,holly10@hotmail.com,390.586.2702x390,2016-06-15
+157,Nancy Wallace,Professor,7,wiseamanda@yahoo.com,+1-887-109-1298x03249,2018-06-01
+158,Gary Smith,Professor,1,richardellis@kelly.com,(467)901-5662x63632,2016-04-19
+159,Christine Zimmerman,Associate Professor,7,levinematthew@short.com,929.837.9517x60355,2019-05-29
+160,Mark Leonard,Professor,4,luisochoa@rogers.com,966.783.3811x072,2022-04-21
+161,Andrea Brewer,Assistant Professor,2,dustinjones@gmail.com,(857)542-0653x1038,2017-07-31
+162,Colton Rodriguez,Professor,2,jaredphelps@jackson.net,3757660327,2017-03-21
+163,Edward Snyder,Assistant Professor,7,jacksonnicole@gillespie.biz,268-920-2202x045,2024-03-13
+164,Mark Jones,Professor,4,patricia90@salazar.com,(795)471-8396x507,2015-10-21
+165,William Ross,Associate Professor,3,jessica17@yahoo.com,840.300.0851x42975,2020-03-11
+166,Travis Martinez,Professor,3,mcgrathdavid@simmons-byrd.com,+1-068-190-1927x82494,2016-01-27
+167,Ashley George,Professor,7,gmiller@sanchez.org,491-048-8061x296,2018-05-01
+168,David Powell,Professor,7,snyderantonio@gmail.com,930-123-4874x66697,2021-11-13
+169,John Oliver,Assistant Professor,7,allenmadden@yahoo.com,696-506-1835,2024-01-18
+170,Regina Wells,Assistant Professor,2,sclark@yahoo.com,936-097-0965x531,2021-05-14
+171,Tonya Morgan,Associate Professor,2,rachel62@garcia-wells.com,001-045-570-3136x2110,2024-07-07
+172,Rebecca Banks,Assistant Professor,1,carlanderson@ellis.com,(974)994-1098,2017-01-15
+173,Angela Schwartz,Professor,6,sue25@mann.com,+1-877-293-3334x676,2023-10-08
+174,Melissa Rogers MD,Professor,2,ericcarter@deleon-woods.com,(539)896-5837,2016-02-23
+175,Cheryl Wade,Assistant Professor,4,lauren58@hotmail.com,272-235-3992x682,2018-11-18
+176,Melissa Ruiz,Professor,3,jonathan13@gmail.com,001-729-990-7853x6478,2017-06-20
+177,Peter Beck,Associate Professor,3,smccall@cameron-shepard.com,001-309-635-0889x0883,2020-04-15
+178,Anna Davidson,Associate Professor,7,youngrobert@johnson.com,001-330-643-0581x811,2020-02-27
+179,Lynn Gomez,Assistant Professor,1,arnoldwayne@bishop.com,+1-355-452-6705x52941,2022-09-08
+180,Mary French DDS,Assistant Professor,7,gjohnson@hotmail.com,749.511.3711x159,2018-03-10
+181,Craig Shannon,Associate Professor,3,richardrodriguez@smith.com,(216)450-2205x215,2018-08-31
+182,Kelly Sanchez,Associate Professor,3,cody51@carson.com,+1-532-651-0637x90360,2020-08-20
+183,Denise Berg,Assistant Professor,6,brandon02@avery.com,+1-840-378-4556x6598,2019-03-12
+184,Julie Barajas,Assistant Professor,5,donkelley@jones-warner.com,+1-205-535-0865x267,2017-01-29
+185,David Wilson,Assistant Professor,4,yubenjamin@hernandez.com,(207)521-4410x6329,2017-07-04
+186,Zachary Fry,Professor,6,david34@hotmail.com,(151)108-4422,2019-12-11
+187,Kristine Moon,Assistant Professor,7,hwilliams@hotmail.com,001-518-085-9133x3258,2019-08-21
+188,Shelley Brown,Assistant Professor,5,john23@parker-scott.biz,+1-430-250-4999x585,2022-07-18
+189,Donna Parks,Professor,3,roseashley@moran.info,+1-184-585-7346x62097,2019-12-13
+190,Charles Williams,Associate Professor,1,brittany09@gmail.com,354.082.9068x70061,2016-11-10
+191,Christopher Mendoza Jr.,Assistant Professor,1,garciasherry@pearson.com,553.030.2493,2018-02-16
+192,Ashley Gray,Professor,3,melanie24@gmail.com,936-337-8837x680,2016-01-15
+193,Crystal Flores,Assistant Professor,2,floresrobert@melton.com,268-513-9411x5056,2020-05-12
+194,Benjamin Miller,Assistant Professor,5,ytorres@best-webster.biz,001-261-577-8574x7710,2019-10-21
+195,Stephanie Jones,Professor,3,gregorywatson@garrett-chen.com,582.123.9246x26570,2016-01-11
+196,Tyler Fox,Associate Professor,1,brenda36@harris.com,4113102233,2021-01-12
+197,Michele Smith,Professor,1,cparker@yahoo.com,846-302-9168,2023-02-13
+198,Marissa Hernandez,Assistant Professor,5,jacquelineparker@maynard.biz,669.541.3812x46685,2021-05-24
+199,Corey Rose,Associate Professor,4,nicholasdavidson@yahoo.com,315-709-0255,2021-07-11
+200,Judith Price,Professor,3,pwong@turner.org,(798)528-3272x1901,2024-07-09
+201,Nicole Murphy,Professor,6,jodiochoa@johnson.com,+1-413-833-8660x6974,2023-07-03
+202,James Casey,Associate Professor,7,wellswilliam@jackson.com,(693)048-8394x06155,2017-06-12
+203,Joel Frazier,Assistant Professor,3,jwilson@mckenzie.com,+1-384-505-6773,2024-10-19
+204,Ernest Owens,Professor,4,arielwest@yahoo.com,220-988-1529,2021-10-23
+205,Mark Conley,Professor,5,orobinson@williams.com,385.639.4179x34661,2015-09-20
+206,Zoe Sanchez,Professor,5,randallgonzales@murphy-york.com,288-916-4171,2023-09-16
+207,Alexander Hill,Assistant Professor,1,portervictor@gray.info,(331)421-6213x9092,2015-07-08
+208,Darryl Mccoy,Professor,4,garciabrandon@taylor.biz,001-898-280-0420x77997,2021-12-20
+209,Michael Mccullough,Associate Professor,5,alejandroharrington@pineda.com,3659774261,2023-11-29
+210,Elizabeth Huffman,Associate Professor,2,abecker@hotmail.com,001-435-208-9687x28177,2023-11-14
+211,Edwin Henson,Professor,3,sandrahale@ray.org,960-774-0758x01330,2024-08-04
+212,Deborah Miller,Professor,1,qevans@garza.com,(983)489-5078,2025-02-24
+213,Melissa Ward,Associate Professor,6,ramosnancy@brown.info,(490)599-8081x4485,2022-10-23
+214,Bruce Perez,Associate Professor,4,egriffin@boyd.net,387.019.3922x1675,2022-03-07
+215,Michael Webster,Professor,1,kellyreyes@graham-garza.org,385.913.0629x0685,2020-10-04
+216,Stephanie Morse,Associate Professor,5,scott80@alvarez.com,490-548-3795x65626,2019-02-19
+217,Nicole Malone,Assistant Professor,7,ian70@gmail.com,0783633041,2016-12-20
+218,Michelle Brown,Assistant Professor,5,jonesstephanie@nelson-wagner.net,(220)709-4699,2020-04-01
+219,Angela White,Assistant Professor,6,anthony74@hotmail.com,895-005-3558x14587,2023-08-16
+220,James Herrera,Assistant Professor,6,fhill@yahoo.com,848.191.1343x92167,2023-10-31
+221,Nicholas Schmitt,Associate Professor,6,iroberts@gmail.com,312.554.0409,2019-04-21
+222,Kristi Davis,Assistant Professor,6,gmiller@gmail.com,(426)799-1507,2017-12-05
+223,Lisa Love,Professor,6,anthonynicole@smith.com,001-742-802-3529x61011,2024-03-15
+224,Katherine Wong,Professor,2,yfernandez@diaz.com,724.678.3984,2016-08-02
+225,Emily Michael,Assistant Professor,3,williamssheila@hodges.com,471-343-5153x291,2018-07-23
+226,Linda Lee,Professor,4,lovesamantha@walker.com,(832)753-7854,2016-12-23
+227,Andrew Gillespie,Assistant Professor,1,aaronbaker@sparks-wood.com,832.582.6672x681,2020-07-13
+228,Stephen Reyes,Assistant Professor,6,austin49@gmail.com,257.925.4562x472,2018-01-21
+229,Patrick Osborne,Assistant Professor,3,clayjennifer@bass.com,+1-873-262-9018x7405,2018-03-28
+230,Jessica Hernandez,Professor,5,sarabailey@carr.com,+1-949-130-1921x83349,2020-08-10
+231,Kimberly French,Professor,3,scottmelissa@gmail.com,001-418-868-2316x264,2017-01-27
+232,Arthur Sullivan,Assistant Professor,6,michellecase@hotmail.com,1318781269,2021-11-03
+233,Karina Lopez,Assistant Professor,7,cookjocelyn@hotmail.com,+1-524-097-7131x9092,2021-11-04
+234,Nancy Walker,Assistant Professor,1,twebb@wright-pennington.com,847.156.8431,2023-09-18
+235,Alyssa Garrett,Assistant Professor,6,jeremymorgan@yahoo.com,001-710-157-3291x3402,2016-04-23
+236,Henry Davis,Associate Professor,3,qhiggins@gmail.com,(031)261-7305,2021-10-23
+237,Victoria Reed,Assistant Professor,5,laura83@hotmail.com,(677)993-0189x3418,2018-09-25
+238,Austin Mccarthy,Professor,3,barnesdustin@smith.com,+1-756-349-9270,2016-01-24
+239,Karen Smith,Assistant Professor,6,hunterfaith@smith.com,570.180.9742x89484,2017-01-31
+240,Elizabeth Phillips,Associate Professor,4,nnelson@howe.com,(065)739-9086x559,2017-06-12
+241,Sara Payne,Professor,3,jeffrey88@armstrong.com,3247464319,2016-11-30
+242,Shannon Rios,Associate Professor,4,blackburnsteven@hill.com,(457)126-1518x85857,2016-03-31
+243,Autumn Hebert,Assistant Professor,6,ashleycross@gmail.com,1563994359,2019-12-10
+244,Jeanette Mcintosh,Professor,3,paulacarpenter@hartman-wise.com,551.356.1740,2024-06-15
+245,Mark Snyder,Assistant Professor,5,sierraosborne@hill.info,224.102.7384,2021-02-15
+246,Michelle Lucas,Professor,2,shelbyallen@wilson.com,717-177-6810x51652,2020-10-14
+247,Gavin Hampton,Professor,2,darryl79@hotmail.com,6381680979,2017-10-30
+248,Phillip Price,Professor,4,gregorymiller@gmail.com,2408397571,2021-04-26
+249,Eric Mccormick,Associate Professor,6,erin07@ford-murray.com,910-379-7445x5807,2019-08-21
+250,Lori Bowman,Assistant Professor,4,james21@barron-morris.com,9189749828,2015-11-15
+251,Amber Hernandez,Associate Professor,6,oedwards@patterson.net,976.105.1538x625,2017-06-01
+252,Ashley Jones,Associate Professor,6,traci17@gmail.com,735.128.9429,2024-05-31
+253,Theresa Edwards,Assistant Professor,2,adam32@alexander.biz,001-889-062-5768,2020-07-07
+254,Marisa Hill,Assistant Professor,5,crystalbrown@cole.com,001-497-386-0487x93193,2023-02-28
+255,Ashley Tate,Assistant Professor,5,brianna62@hotmail.com,(624)738-5296x92016,2020-01-28
+256,Lauren Burton,Professor,3,marcia96@martinez-mccoy.com,030.130.7718,2017-08-11
+257,George Michael,Associate Professor,4,laura90@rios-gamble.biz,227-429-6707x0343,2022-11-14
+258,Julie Ramirez,Associate Professor,5,ymartin@yahoo.com,001-989-902-3226x07242,2023-12-26
+259,Juan Harrington,Associate Professor,7,charles95@thornton.com,6797054026,2016-04-18
+260,Jody Clark,Associate Professor,1,christopherreed@ramos-robinson.com,956-258-4923x56889,2015-08-09
+261,Maria Torres,Associate Professor,3,robertcortez@yahoo.com,(227)539-6103,2018-09-07
+262,Shawn Allen,Professor,3,kathrynphelps@hotmail.com,969-154-8098,2025-02-06
+263,Chase Palmer,Assistant Professor,2,richardsonmorgan@holder-hendrix.biz,192.098.7243x0606,2022-07-18
+264,Shelly Cooke,Professor,4,paul59@gmail.com,(329)649-3762x25088,2015-08-05
+265,Heather Hill,Professor,7,adrian83@hotmail.com,+1-767-447-1188,2023-09-29
+266,Eric Cordova,Professor,5,donna22@yahoo.com,+1-498-231-5728x34582,2022-12-05
+267,Lee Bennett,Assistant Professor,5,xreynolds@gmail.com,4266260015,2015-10-01
+268,Jordan Brown,Assistant Professor,6,gcooper@graham.com,357.794.2899,2022-05-27
+269,Melissa Lucas,Associate Professor,3,michelle04@mendez-stewart.org,(090)816-4103x728,2025-05-30
+270,Steven Luna,Professor,4,fprince@hotmail.com,310-006-4791x148,2020-11-07
+271,Brian Morales,Associate Professor,4,hernandezmegan@ross-flores.net,775-885-0096x55834,2023-05-09
+272,Brett Page,Assistant Professor,4,cheryl29@higgins.com,(674)074-6918x3934,2018-11-26
+273,Jason Lester,Assistant Professor,6,wsampson@yahoo.com,(164)788-2350x7356,2023-03-14
+274,Nathaniel Grant,Assistant Professor,2,richmondeugene@hotmail.com,+1-973-844-2216x646,2023-01-05
+275,Stephanie Bates,Assistant Professor,5,katherinetran@gmail.com,(706)924-9511x5152,2020-06-03
+276,Lisa Nichols,Professor,4,hughesgregory@brown.net,001-720-901-3075x3061,2022-07-05
+277,Ashley White,Associate Professor,7,lunajason@hotmail.com,0618155167,2022-12-10
+278,Lindsey Sullivan,Assistant Professor,7,william63@yahoo.com,706-115-4766x914,2023-04-08
+279,Jeffrey Simmons,Associate Professor,6,kellyjones@yahoo.com,(326)384-8282,2023-10-27
+280,Jay Kim,Assistant Professor,2,brettlee@campbell-travis.com,(172)788-8181x11256,2022-04-14
+281,Mary West,Associate Professor,6,mmcbride@mendoza.com,329-018-6826,2023-03-15
+282,Rebecca Hayes,Associate Professor,1,calebholmes@gmail.com,+1-116-281-8981x1115,2024-11-28
+283,Melanie Bolton,Assistant Professor,3,alan20@cook.com,052.906.0701x412,2016-07-12
+284,Jason Gutierrez,Assistant Professor,5,teresahansen@kirby.org,720-014-8051x918,2022-12-25
+285,Andrew Richardson,Associate Professor,6,cameronmichael@hays.net,+1-217-635-2254,2023-02-09
+286,Zachary King,Professor,6,michelleevans@gmail.com,(219)606-9905x04459,2016-07-18
+287,Stephen Jenkins,Assistant Professor,5,zhudson@lee.biz,292.573.7213x8927,2021-03-24
+288,Cody Maynard,Assistant Professor,3,farrellalice@barrett.com,(469)371-9522,2024-12-17
+289,Jacob Snyder,Professor,1,stonetamara@hotmail.com,117.293.2959x27048,2020-12-24
+290,Leslie Phillips,Professor,7,pcohen@yahoo.com,2751891140,2021-05-11
+291,Carolyn Williams,Assistant Professor,7,smithnicole@yahoo.com,+1-781-232-4411x481,2022-05-14
+292,James Patel,Assistant Professor,2,tonyathomas@gmail.com,140-772-4123,2020-12-29
+293,Olivia Waters,Assistant Professor,6,david85@hotmail.com,(037)257-9906,2023-05-15
+294,Patricia Ramos,Assistant Professor,3,robinharrison@gmail.com,(786)149-5877x9392,2023-01-08
+295,Mitchell Garrett,Associate Professor,2,suzanneromero@gmail.com,+1-347-220-6528x14601,2021-03-10
+296,Sarah Whitehead,Associate Professor,7,lbarnett@mejia.com,(453)542-3215x9582,2016-12-23
+297,Isaac Johnson,Associate Professor,2,brandibrown@palmer.com,635.558.0837x140,2021-01-10
+298,Teresa Davis,Assistant Professor,2,pcherry@yahoo.com,2898881819,2020-12-29
+299,Charles Norris,Associate Professor,1,craig07@gmail.com,001-150-446-2407x94879,2023-03-15
+300,Jo Garcia,Assistant Professor,1,benjaminbarker@hotmail.com,(831)580-9124x67350,2016-09-06
+301,Kristen Hill,Assistant Professor,2,wbray@young.com,532-651-6489x696,2020-03-20
+302,Jerry Evans,Associate Professor,4,lisa32@walsh-morris.com,170.623.4761x273,2017-01-01
+303,Kristy Robles,Assistant Professor,5,christy98@gmail.com,637.974.3482,2022-09-09
+304,Lisa Morris,Associate Professor,7,cassandra31@yahoo.com,966.485.9033x3768,2019-04-21
+305,James Brown,Associate Professor,7,dustindunn@allen-mendoza.biz,497-143-3051,2022-08-09
+306,Mariah Riggs,Associate Professor,1,lisa19@long.com,246.940.6421,2024-08-12
+307,Carrie Montgomery,Associate Professor,4,brian26@wolfe-johnson.info,304-216-5841x1388,2020-04-19
+308,Jessica Baldwin,Associate Professor,4,josephrosales@yahoo.com,014.714.2276x65948,2025-02-09
+309,Lindsey Smith,Professor,6,omarks@yahoo.com,001-758-966-8685x4430,2023-08-06
+310,Lawrence Murphy,Professor,5,bkaufman@yahoo.com,001-995-564-9415,2023-11-03
+311,Renee Garcia,Professor,2,lnicholson@kelly.com,+1-727-826-4704x75477,2018-02-03
+312,Erica Cochran,Professor,6,kbanks@yahoo.com,4478100757,2024-04-29
+313,Matthew Maldonado,Professor,6,deborahlynn@moore.com,001-417-539-2072x1884,2023-04-26
+314,Ashley Martinez,Associate Professor,4,fryekevin@yahoo.com,(251)448-5157x352,2025-05-20
+315,Ashley Hill,Assistant Professor,4,owensnicole@delgado.info,(880)946-6948x0407,2022-06-12
+316,Sonya Oliver,Assistant Professor,4,pgill@williams.biz,001-000-478-8508x2662,2016-03-11
+317,William Kelley,Associate Professor,2,kellytaylor@hotmail.com,857.274.5592,2024-02-04
+318,Cynthia Jones,Assistant Professor,2,ysullivan@ryan-manning.net,(272)976-4411x0688,2024-04-02
+319,Stephen Cannon,Assistant Professor,6,ruiztravis@williams.com,275-212-6907x7676,2023-11-30
+320,Matthew Hall,Professor,6,wheelerann@hotmail.com,+1-989-018-4465x725,2019-09-11
+321,Stacey Boyle,Professor,1,sharon94@hotmail.com,001-157-185-7046,2018-01-26
+322,Steve Myers,Professor,7,laurie08@johnson.biz,+1-620-165-4075,2024-06-01
+323,Adam Moore,Assistant Professor,7,wallacestephen@gmail.com,551.606.0846,2017-10-13
+324,Jason Johnson,Professor,7,deangeorge@yahoo.com,001-066-440-7212x696,2017-01-30
+325,Taylor Irwin,Associate Professor,1,erogers@gmail.com,+1-803-461-5052x870,2016-09-10
+326,Heather Osborne,Assistant Professor,7,smithemily@hotmail.com,+1-758-335-6612,2021-09-18
+327,Laura Manning,Assistant Professor,4,zyoung@hotmail.com,(507)580-7055,2024-08-30
+328,Mitchell Gomez,Professor,2,lauradudley@rivera-james.org,803.593.9436x1769,2022-03-25
+329,Margaret Hatfield,Associate Professor,2,santanadawn@hotmail.com,785-023-9907,2022-11-23
+330,Brian Young,Professor,7,stephanie65@le-gonzalez.com,001-490-564-1552x13750,2016-04-02
+331,John Thompson,Professor,6,mortonoscar@gmail.com,597.558.0146x37054,2018-12-21
+332,Thomas Ponce,Assistant Professor,5,michael20@yahoo.com,(106)097-1522x18178,2024-12-26
+333,Brittany Jacobson,Assistant Professor,4,jimmartinez@rich-turner.com,249-297-7502,2022-04-22
+334,Norman Sanchez,Professor,1,clandry@gordon.com,(730)899-8553,2025-04-12
+335,Veronica Smith,Assistant Professor,5,madison08@harrell.com,001-489-605-6218x110,2016-10-30
+336,Joseph Rojas,Assistant Professor,2,aliciajordan@acosta.info,461-934-5545x334,2024-11-17
+337,Heather Roman,Assistant Professor,7,michael81@hotmail.com,(608)444-0347,2022-08-07
+338,Rebecca Tucker,Professor,1,erice@conway.com,426.961.0492x56871,2016-09-11
+339,Nicole Reilly,Assistant Professor,4,dwheeler@hotmail.com,+1-887-886-8892,2021-01-27
+340,Michelle Scott,Professor,2,brettthomas@hotmail.com,+1-165-855-2934x81703,2023-11-27
+341,Joanna Tran,Assistant Professor,7,huntpamela@gmail.com,795-290-9360x183,2021-09-05
+342,Ernest Haynes,Associate Professor,4,kkelly@hotmail.com,001-742-628-7657x824,2020-06-15
+343,Eric Washington,Assistant Professor,6,lindsey31@wilson.com,727.726.4816x53908,2018-08-20
+344,Aaron Dougherty,Professor,5,terrence04@hotmail.com,(880)972-0450x0490,2019-12-25
+345,Patricia Henderson,Assistant Professor,5,wilsonnancy@hotmail.com,889.866.8284,2022-09-22
+346,Adam Young,Professor,5,aprilcopeland@bernard.info,680.091.7336,2017-04-24
+347,Michael Trevino,Professor,3,geoffreyhale@gmail.com,676.097.4599,2021-02-26
+348,Robin Williams,Assistant Professor,7,williamsjennifer@robinson.biz,+1-259-306-8972x1054,2016-11-21
+349,Samantha Hunt,Professor,4,timothylee@perez-ferguson.org,(227)074-8283x05747,2025-03-04
+350,Stephanie Ochoa,Assistant Professor,5,garciastephen@gillespie.com,759-574-0241,2020-11-29
